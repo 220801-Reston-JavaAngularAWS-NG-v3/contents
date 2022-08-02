@@ -40,7 +40,7 @@
 
 ![](media/1c93cb735f3bd30debcda836edddcc2a.png)
 
-![D:\\content-development-2022\\Revature-Next-Gen-Java-AWS-Angular-Extended-v3.1\\git\\media\\1.png](media/cf22c19778c08698b26a40f7d5684956.png)
+![](media/ad9993c286e36647c9e6b0c3715f75c0.png)
 
 ## 4.Repository
 
