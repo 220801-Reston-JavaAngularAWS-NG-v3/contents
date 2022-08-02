@@ -40,7 +40,7 @@
 
 ![](media/1c93cb735f3bd30debcda836edddcc2a.png)
 
-![](media/ad9993c286e36647c9e6b0c3715f75c0.png)
+![](media/1.png)
 
 ## 4.Repository
 
